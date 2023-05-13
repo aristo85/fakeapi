@@ -3,7 +3,8 @@
     {
       "id": 1,
       "email": "example@example.com",
-      "password": "password123"
+      "password": "password123",
+      "token": "your-jwt-token"
     }
   ],
   "login": {
